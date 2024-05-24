@@ -3,7 +3,7 @@ This is a contact management app built using ReactJS, JavaScript, TailwindCSS, R
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
 # Deployed Link : - 
-https://contact-management-app-teal.vercel.app/
+[Click to see the vercel deployment](https://contact-management-app-sidharth.vercel.app/)
 
 # Pages and Functionality
 The app has two main pages:
@@ -39,5 +39,14 @@ To run this app, follow these steps:
 - Install the dependencies: npm install
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
+
+# Samples
+
+![image](https://github.com/sidharth13-lang/Contact_management_app/assets/112746134/930ba541-1adf-4c7e-a869-e23a6468e850)
+![image](https://github.com/sidharth13-lang/Contact_management_app/assets/112746134/6817e616-5d34-4d30-898d-f3b8d3dfa7a9)
+![image](https://github.com/sidharth13-lang/Contact_management_app/assets/112746134/e8dfbdef-0667-4868-b8f0-8aaa1629aabf)
+
+
+
 
 
